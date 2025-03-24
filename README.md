@@ -1,2 +1,2 @@
 # sql
-hexaware ass1
+hexaware assignment1
